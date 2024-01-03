@@ -18,6 +18,7 @@ Aim to help foreigners to learn Finnish!
 - [ ] Initiate Backend & Frontend
 - [ ] Improve Figma Design
 - [ ] Make Backend planning
+- [ ] Select COLORS
 
 ## Archive
 

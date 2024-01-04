@@ -13,14 +13,20 @@ Aim to help foreigners to learn Finnish!
 
 ## TODO
 
-### 04.01.2024
+### 05.01.2024
 
-- [ ] Initiate Backend & Frontend
-- [ ] Improve Figma Design
-- [ ] Make Backend planning
-- [ ] Select COLORS
+- [ ] Frontend Coding
+- [ ] Backend Coding
+
 
 ## Archive
+
+### 04.01.2024
+
+- [x] Initiate Backend & Frontend
+- [X] Improve Figma Design
+- [X] Make Backend planning
+- [x] Select COLORS
 
 ### 03.01.2024
 

@@ -13,12 +13,17 @@ Aim to help foreigners to learn Finnish!
 
 ## TODO
 
-### 06.01.2024
+### 07.01.2024
 
 - [ ] Frontend Coding
 - [ ] Backend Coding
 
 ## Archive
+
+### 06.01.2024
+
+- [X] Frontend Coding
+- [X] Backend Coding
 
 ### 05.01.2024
 

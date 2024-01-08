@@ -1,5 +1,13 @@
 {
     "Index": {
       "title": "Welcome to Finnify!"
+    },
+    "Menu": {
+      "reading": "Reading",
+      "writing": "Writing",
+      "speaking": "Speaking",
+      "listening": "Listening",
+      "grammer": "Grammer"
     }
+    
   }

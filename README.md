@@ -13,10 +13,8 @@ Aim to help foreigners to learn Finnish!
 
 ## TODO
 
-### 07.01.2024
-
-- [ ] Frontend Coding
-- [ ] Backend Coding
+- [ ] Sturucture finalize
+- [ ] Pages & working menu
 
 ## Archive
 

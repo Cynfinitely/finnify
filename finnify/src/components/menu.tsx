@@ -1,13 +1,14 @@
 import { useTranslations } from "next-intl";
+import Link from "next/link";
 
 export default function Menu (){
     const t = useTranslations('Menu');
     
     return <div><ul>
-        <li><a href="">{t('reading')}</a></li>
-        <li><a href="">{t('writing')}</a></li>
-        <li><a href="">{t('speaking')}</a></li>
-        <li><a href="">{t('listening')}</a></li>
-        <li><a href="">{t('grammer')}</a></li>
+        <li><Link href="/reading">{t('reading')}</Link></li>
+        <li><Link href="/writing">{t('writing')}</Link></li>
+        <li><Link href="/speaking">{t('speaking')}</Link></li>
+        <li><Link href="/listening">{t('listening')}</Link></li>
+        <li><Link href="/grammer">{t('grammer')}</Link></li>
         </ul></div>
 }

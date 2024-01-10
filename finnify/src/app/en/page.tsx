@@ -8,7 +8,10 @@ export default function Index() {
   return (    
   <main className="flex min-h-screen flex-col items-center justify-between p-24">
     <Logo/>
-    <div>{t('title')}</div>
+    <div className="flex flex-row items-center justify-between p-24 gap-52">
     <Menu/>
+    <div>{t('title')}</div>
+    </div>
+
 </main>);
 }

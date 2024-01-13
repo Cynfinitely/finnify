@@ -1,5 +1,4 @@
 import {useTranslations} from 'next-intl';
-import Image from 'next/image'
 import Menu from '@/components/menu';
 import Logo from '@/components/logo';
  

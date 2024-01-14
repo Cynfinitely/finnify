@@ -15,6 +15,7 @@ Aim to help foreigners to learn Finnish!
 
 - [ ] Sturucture finalize
 - [ ] Pages & working menu
+- [ ] AI integration for  writing
 
 ## Archive
 

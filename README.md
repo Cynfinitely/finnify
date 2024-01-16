@@ -18,6 +18,7 @@ Aim to help foreigners to learn Finnish!
 - [ ] AI integration for  writing
 - [ ] Reading materials
 - [ ] Listening Materials
+- [ ] Speaking Matcing System
 
 ## Archive
 

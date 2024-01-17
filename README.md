@@ -19,6 +19,8 @@ Aim to help foreigners to learn Finnish!
 - [ ] Reading materials
 - [ ] Listening Materials
 - [ ] Speaking Matcing System
+- [ ] Profile
+- [ ] Process tracker
 
 ## Archive
 

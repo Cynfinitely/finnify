@@ -21,6 +21,7 @@ Aim to help foreigners to learn Finnish!
 - [ ] Speaking Matcing System
 - [ ] Profile
 - [ ] Process tracker
+- [ ] Suggestions
 
 ## Archive
 

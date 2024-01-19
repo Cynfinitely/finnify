@@ -22,6 +22,7 @@ Aim to help foreigners to learn Finnish!
 - [ ] Profile
 - [ ] Process tracker
 - [ ] Suggestions
+- [ ] YKI preparations
 
 ## Archive
 

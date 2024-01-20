@@ -23,6 +23,7 @@ Aim to help foreigners to learn Finnish!
 - [ ] Process tracker
 - [ ] Suggestions
 - [ ] YKI preparations
+- [ ] YLE areena integration
 
 ## Archive
 

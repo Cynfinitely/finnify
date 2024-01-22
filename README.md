@@ -25,6 +25,7 @@ Aim to help foreigners to learn Finnish!
 - [ ] YKI preparations
 - [ ] YLE areena integration
 - [ ] Contacts
+- [ ] Themes
 
 ## Archive
 

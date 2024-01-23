@@ -26,6 +26,7 @@ Aim to help foreigners to learn Finnish!
 - [ ] YLE areena integration
 - [ ] Contacts
 - [ ] Themes
+- [ ] Language Supports
 
 ## Archive
 

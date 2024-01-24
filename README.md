@@ -27,6 +27,7 @@ Aim to help foreigners to learn Finnish!
 - [ ] Contacts
 - [ ] Themes
 - [ ] Language Supports
+- [ ] Experienced peoples part
 
 ## Archive
 

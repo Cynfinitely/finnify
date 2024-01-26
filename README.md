@@ -29,6 +29,7 @@ Aim to help foreigners to learn Finnish!
 - [ ] Language Supports
 - [ ] Experienced peoples part
 - [ ] Chat app for practicing
+- [ ] Info about Finland
 
 ## Archive
 

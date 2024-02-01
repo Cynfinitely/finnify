@@ -1,0 +1,11 @@
+* {
+  box-sizing: border-box;
+}
+
+aside ul li {
+  list-style: none;
+}
+
+aside ul li a {
+  text-decoration: none;
+}

@@ -1,15 +1,11 @@
-![Finnify Logo](logo_without_bg.png)
+![Finnify Logo](public/images/logo_without_bg.png)
 
 Aim to help foreigners to learn Finnish!
 
 ## Tech Stack
 
-- Frontend: NextJs,SASS,Tailwind Css
+- Frontend: NextJs, TypeScript, SASS,Tailwind Css
 - Backend: Java Spring
-
-## FIGMA
-
-- [Figma](https://www.figma.com/file/2SpQhn5ISAlc7UVueCsRbv/FInnify?type=design&node-id=0%3A1&mode=design&t=S0sSVLzewjDXLpMo-1)
 
 ## TODO
 

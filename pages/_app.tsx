@@ -11,10 +11,12 @@ function MyApp({
 }) {
   return (
     <>
-      <Header />
-      <div className="flex">
-        <AsideMenu />
-        <Component {...pageProps} />
+      <div className="w-100 h-100">
+        <Header />
+        <div className="flex w-full h-3/4">
+          <AsideMenu />
+          <Component {...pageProps} />
+        </div>
       </div>
     </>
   );

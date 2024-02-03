@@ -3,7 +3,7 @@ import Link from "next/link";
 
 const AsideMenu = () => {
   return (
-    <aside className="w-1/6 h-max">
+    <aside className="w-1/6 h-full border-r-4 border-[var(--thirdColor)]">
       <ul>
         <li>
           <Link href="/">

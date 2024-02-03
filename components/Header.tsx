@@ -8,7 +8,7 @@ const Header = () => {
       <div className="w-1/4">
         <Image src={logo} width={200} height={200} alt="Finnify Logo" />
       </div>
-      <div className="w-3/4 flex flex-col  items-center h-full">
+      <div className="w-3/4 flex flex-row justify-center  items-center h-100">
         LEARN FINNISH WITH FINNIFY!
       </div>
     </div>

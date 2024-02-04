@@ -31,10 +31,10 @@ aside ul {
   text-align: center;
 }
 
-aside ul li {
+aside > ul > li {
   list-style: none;
 }
 
-aside ul li a {
+aside > ul > li > a {
   text-decoration: none;
 }

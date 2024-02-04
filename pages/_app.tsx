@@ -15,7 +15,7 @@ function MyApp({
         <Header />
         <div className="flex w-screen h-3/4">
           <AsideMenu />
-          <div className="w-5/6">
+          <div className="w-5/6 h-full">
             <Component {...pageProps} />
           </div>
         </div>

@@ -2,7 +2,7 @@ import React from 'react'
 
 const grammer = () => {
   return (
-    <div>grammer</div>
+    <div className="flex flex-col w-full h-full justify-center items-center">grammer</div>
   )
 }
 

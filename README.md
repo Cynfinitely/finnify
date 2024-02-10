@@ -29,6 +29,7 @@ Aim to help foreigners to learn Finnish!
 - [ ] Info about how to learn any language
 - [ ] avatars
 - [ ] Socials share
+- [ ] Timers
 
 ## Archive
 

@@ -11,7 +11,7 @@ Aim to help foreigners to learn Finnish!
 
 - [ ] Sturucture finalize
 - [ ] Pages & working menu
-- [ ] AI integration for  writing
+- [ ] AI integration for writing
 - [ ] Reading materials
 - [ ] Listening Materials
 - [ ] Speaking Matcing System
@@ -30,13 +30,14 @@ Aim to help foreigners to learn Finnish!
 - [ ] avatars
 - [ ] Socials share
 - [ ] Timers
+- [ ] AI learning for writing
 
 ## Archive
 
 ### 06.01.2024
 
-- [X] Frontend Coding
-- [X] Backend Coding
+- [x] Frontend Coding
+- [x] Backend Coding
 
 ### 05.01.2024
 
@@ -46,8 +47,8 @@ Aim to help foreigners to learn Finnish!
 ### 04.01.2024
 
 - [x] Initiate Backend & Frontend
-- [X] Improve Figma Design
-- [X] Make Backend planning
+- [x] Improve Figma Design
+- [x] Make Backend planning
 - [x] Select COLORS
 
 ### 03.01.2024

@@ -31,6 +31,7 @@ Aim to help foreigners to learn Finnish!
 - [ ] Socials share
 - [ ] Timers
 - [ ] AI learning for writing
+- [ ] Experience sharing
 
 ## Archive
 

@@ -9,7 +9,7 @@ Aim to help foreigners to learn Finnish!
 
 ## TODO
 
-- [ ] Sturucture finalize
+- [ ] Structure finalize
 - [ ] Pages & working menu
 - [ ] AI integration for writing
 - [ ] Reading materials
@@ -32,6 +32,7 @@ Aim to help foreigners to learn Finnish!
 - [ ] Timers
 - [ ] AI learning for writing
 - [ ] Experience sharing
+- [ ] AI speaking exercise
 
 ## Archive
 

@@ -1,15 +1,6 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-
-:root {
-  --primaryColor: #f2f2f2;
-  --secondaryColor: #66cdd9;
-  --thirdColor: #2b718c;
-  --fourthColor: #3279a6;
-  --fifthColor: #03588c;
-}
-
 * {
   box-sizing: border-box;
 }
@@ -18,8 +9,8 @@ html,
 body {
   margin: 0;
   padding: 0;
-  background-color: var(--primaryColor);
-  color: var(--thirdColor);
+  background-color: #f2f2f2;
+  color: #2b718c;
 }
 
 aside ul {
@@ -30,11 +21,11 @@ aside ul {
   height: 100%;
   text-align: center;
 }
-
-aside > ul > li {
+aside ul li {
   list-style: none;
 }
-
-aside > ul > li > a {
+aside ul li a {
   text-decoration: none;
 }
+
+/*# sourceMappingURL=globals.css.map */

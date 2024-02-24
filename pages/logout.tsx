@@ -1,9 +1,14 @@
-import React from 'react'
+import React from "react";
+import { useDispatch, useSelector } from "react-redux";
+import { RootState } from "../redux/store";
 
 const logout = () => {
-  return (
-    <div>logout</div>
-  )
-}
+  const dispatch = useDispatch();
+  const isAuthenticated = useSelector(
+    (state: RootState) => state.auth.isAuthenticated
+  );
 
-export default logout
+  return <div>logout</div>;
+};
+
+export default logout;

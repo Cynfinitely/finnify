@@ -8,7 +8,8 @@ const index = () => {
       <p>
         There are 5 main topics of learning Finnish: Reading, Listening,
         Speaking, Writing and Grammer. You can study daily each of them or you
-        can select one of them and improve yourself on specificic area.
+        can select one of them and improve yourself on specificic area. There
+        are AI helpers in each section.
       </p>
     </div>
   );

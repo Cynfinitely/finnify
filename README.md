@@ -33,6 +33,7 @@ Aim to help foreigners to learn Finnish!
 - [ ] AI learning for writing
 - [ ] Experience sharing
 - [ ] AI speaking exercise
+- [ ] Merch
 
 ## Archive
 
